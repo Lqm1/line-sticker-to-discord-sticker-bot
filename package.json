@@ -1,8 +1,6 @@
 {
 	"name": "line-sticker-to-discord-sticker-bot",
 	"version": "1.0.0",
-	"description": "An example of how to setup a Sapphire project with bun",
-	"private": true,
 	"main": "src/main.ts",
 	"type": "module",
 	"scripts": {

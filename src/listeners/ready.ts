@@ -27,7 +27,7 @@ export class UserListener extends Listener<typeof Events.ClientReady> {
 
 		console.log(
 			createBanner({
-				name: [gradient.retro.multiline(figlet.textSync('Bun Example'))],
+				name: [gradient.retro.multiline(figlet.textSync('LINE Sticker'))],
 				extra: [
 					//
 					`[${success}] Gateway`,
